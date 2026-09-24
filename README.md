@@ -1,6 +1,8 @@
 # Pseudo-v74
 ## A conversion kit to revert the SystemUX a rootable Quest 2, Pro, 3, or 3s 
 
+This repo also contains a full dump of system_ext.img (where the apps are located)
+
 # Instructions
 
  1. Root your headset with Singularity (if not done already)
