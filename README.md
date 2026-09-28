@@ -1,6 +1,7 @@
 # Pseudo-v74
 ## A conversion kit to revert the SystemUX a rootable Quest 2, Pro, 3, or 3s 
 
+If your interested in custom roms on unlockable Oculus headsets feel free to join https://discord.gg/u67FFUk6zs 
 
 # Instructions (manual)
 
